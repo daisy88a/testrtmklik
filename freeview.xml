@@ -1,71 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<root><channel id="1.tonton">
+<root><channel id="1.mytv">
 		<display-name lang="en">TV1</display-name>
 	</channel>
-	<channel id="2.tonton">
+	<channel id="2.mytv">
 		<display-name lang="en">TV2</display-name>
 	</channel>
-	<channel id="26.tonton">
+	<channel id="26.mytv">
 		<display-name lang="en">TV ALHIJRAH</display-name>
 	</channel>
-	<channel id="3.tonton">
+	<channel id="3.mytv">
 		<display-name lang="en">SUKAN RTM</display-name>
 	</channel>
-	<channel id="4.tonton">
+	<channel id="4.mytv">
 		<display-name lang="en">BERITA RTM</display-name>
 	</channel>
-	<channel id="61.tonton">
+	<channel id="61.mytv">
 		<display-name lang="en">TVS</display-name>
 	</channel>
-	<channel id="25.tonton">
+	<channel id="25.mytv">
 		<display-name lang="en">TV6</display-name>
 	</channel>
-	<channel id="5.tonton">
+	<channel id="5.mytv">
 		<display-name lang="en">TV OKEY</display-name>
 	</channel>
-	<channel id="27.tonton">
+	<channel id="27.mytv">
 		<display-name lang="en">BERNAMA</display-name>
 	</channel>
-	<channel id="28.tonton">
+	<channel id="28.mytv">
 		<display-name lang="en">SUKE TV</display-name>
 	</channel>
-	<channel id="45.tonton">
+	<channel id="45.mytv">
 		<display-name lang="en">SELANGOR TV</display-name>
 	</channel>
-	<channel id="20.tonton">
+	<channel id="20.mytv">
 		<display-name lang="en">TV IKIM</display-name>
 	</channel>
-	<channel id="72.tonton">
+	<channel id="72.mytv">
 		<display-name lang="en">AFL TV</display-name>
 	</channel>
-	<channel id="46.tonton">
+	<channel id="46.mytv">
 		<display-name lang="en">MY CINEMA EUROPE</display-name>
 	</channel>
-	<channel id="62.tonton">
+	<channel id="62.mytv">
 		<display-name lang="en">CNA</display-name>
 	</channel>
-	<channel id="70.tonton">
+	<channel id="70.mytv">
 		<display-name lang="en">TaiwanPlus</display-name>
 	</channel>
-	<channel id="71.tonton">
+	<channel id="71.mytv">
 		<display-name lang="en">BRITISH MUSLIM TV</display-name>
 	</channel>
-	<channel id="43.tonton">
+	<channel id="43.mytv">
 		<display-name lang="en">MOTOR RACING TV</display-name>
 	</channel>
-	<channel id="69.tonton">
+	<channel id="69.mytv">
 		<display-name lang="en">DW</display-name>
 	</channel>
-	<channel id="41.tonton">
+	<channel id="41.mytv">
 		<display-name lang="en">HORIZON SPORTS</display-name>
 	</channel>
-	<channel id="30.tonton">
+	<channel id="30.mytv">
 		<display-name lang="en">TVRI NASIONAL</display-name>
 	</channel>
-	<channel id="31.tonton">
+	<channel id="31.mytv">
 		<display-name lang="en">TVRI WORLD</display-name>
 	</channel>
-	<channel id="68.tonton">
+	<channel id="68.mytv">
 		<display-name lang="en">MYTV</display-name>
 	</channel>
 	<programme start="20240620000000 +0800" stop="20240620003000 +0800" channel="1.mytv">
